@@ -1,2 +1,1 @@
-%%writefile requirements.txt
 streamlit==1.38.0
